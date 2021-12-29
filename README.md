@@ -1,2 +1,2 @@
-# juego-de-barcos
-carrera de barcos con obstáculos
+# MovimientoDePelotaAsincorono
+Boilerplate para movimiento de la pelota de forma asíncrona
